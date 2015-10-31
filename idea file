@@ -26,3 +26,6 @@ hardware specs
 
 look at using the freescale IMX6DQRM
 -has most of what I want
+-use these portions of the IO MUX
+AUDMUX
+
