@@ -1,0 +1,26 @@
+List of ideals for beltpack cellphone 
+
+chipset specs
+-ARM based chipset (A9)
+-sata port
+-displayport ideally or HDMI
+-ethernet
+-mini pcie connections
+-3 or more hardware UARTS
+-GPIO ports
+-USB
+-CAN bus
+
+
+
+hardware specs
+-pogo pin connectors for IO
+-3x mini pcie connectors for cellular modems and m.2 flash
+-space for 2.5" HDD or SSD
+-large battery capacity
+-IP6X rated
+
+
+
+look at using the freescale IMX6DQRM
+-has most of what I want
