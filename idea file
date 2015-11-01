@@ -8,8 +8,14 @@ chipset specs
 -mini pcie connections
 -3 or more hardware UARTS
 -GPIO ports
--USB
+-USB+USBOTG
 -CAN bus
+-audio IO
+-SPI
+-I2C
+-Serial Audio Interface
+
+
 
 
 
