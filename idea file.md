@@ -8,7 +8,7 @@ At least 2 board to board connectors of non symetrical design, look at extending
 
 ## Custom Carrier Board Summary
 
-Basically a belt mounted computer running linux. Provides most functionality of cellphone, including calling and data access. Handset control is allocated to [handheld](#custom-'ipod-touch'-summary)
+Basically a belt mounted computer running linux. Provides most functionality of cellphone, including calling and data access. Handset control is allocated to [handheld](#custom-ipod-touch-summary)
 
 - Use pogo pin connectors for external connections:
   - displayport
@@ -23,7 +23,7 @@ Basically a belt mounted computer running linux. Provides most functionality of 
 - HDMI to Displayport chip onboard
 - M.2 SSD support
 
-## Custom 'iPod Touch' Summary
+## Custom iPod Touch Summary
 
 
 ## Other Ideas
