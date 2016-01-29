@@ -8,8 +8,9 @@ At least 2 board to board connectors of non symetrical design, look at extending
 
 ## Custom Carrier Board Summary
 
-Basically a belt mounted computer running linux. Provides most functionality of cellphone, including calling and data access. Handset control is allocated to [handheld](#custom-ipod-touch-summary)
+Basically a belt mounted computer running linux. Provides most functionality of cellphone, including calling and data access. Handset control is allocated to [handheld](#custom-ipod-touch-summary), but basic control can be done via GPIO.
 
+- Antenna Connectors are SMA
 - Use pogo pin connectors for external connections:
   - displayport
   - ethernet
@@ -23,12 +24,20 @@ Basically a belt mounted computer running linux. Provides most functionality of 
 - HDMI to Displayport chip onboard
 - M.2 SSD support
 
+Think about having audio output as direct i2s instead of analog, to use external DSP
+
 ## Custom iPod Touch Summary
 
 
 ## Other Ideas
 
-chipset specs
+### General Ideas
+
+use photographers vest or similar to hold system and other electronics, as opposed to harness. Integrate strapping within vest to help reduce flapping. allow for system to be transfered to harness if vest is to bulky in certain situations.
+
+use either analog or digital mixer (probably analog) to mix signals from radios and main computer
+
+### chipset specs
 - ARM based chipset (A9)
 - sata port
 - displayport ideally or HDMI
@@ -43,11 +52,7 @@ chipset specs
 - I2C
 - Serial Audio Interface
 
-
-
-
-
-hardware specs
+### hardware specs
 - pogo pin connectors for IO
 - 3x mini pcie connectors for cellular modems and m.2 flash
 - space for 2.5" HDD or SSD
@@ -55,8 +60,3 @@ hardware specs
 - IP6X rated
 - FPGA capacity
 - machined aluminium tube with end plates for housing
-
-
-
-
-
