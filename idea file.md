@@ -24,6 +24,8 @@ Basically a belt mounted computer running linux. Provides most functionality of 
 - HDMI to Displayport chip onboard
 - M.2 SSD support
 
+External cellular calling chip similar to arduino cellular boards to allow for both multiple carrier support and seperate cellular data and calling/texting support.
+
 Think about having audio output as direct i2s instead of analog, to use external DSP
 
 ## Custom iPod Touch Summary
@@ -36,6 +38,8 @@ Think about having audio output as direct i2s instead of analog, to use external
 use photographers vest or similar to hold system and other electronics, as opposed to harness. Integrate strapping within vest to help reduce flapping. allow for system to be transfered to harness if vest is to bulky in certain situations.
 
 use either analog or digital mixer (probably analog) to mix signals from radios and main computer
+
+use external cellular modem/router (data) to allow for external antennas.
 
 ### chipset specs
 - ARM based chipset (A9)
