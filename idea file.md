@@ -24,7 +24,7 @@ Basically a belt mounted computer running linux. Provides most functionality of 
 - HDMI to Displayport chip onboard
 - M.2 SSD support
 
-External cellular calling chip similar to arduino cellular boards to allow for both multiple carrier support and seperate cellular data and calling/texting support.
+External cellular calling chip similar to arduino cellular boards to allow for both multiple carrier support and seperate cellular data and calling/texting support. have it look more like an external ham radio connection than a shield
 
 Think about having audio output as direct i2s instead of analog, to use external DSP
 
