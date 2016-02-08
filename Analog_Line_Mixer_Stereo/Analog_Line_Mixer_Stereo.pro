@@ -1,4 +1,4 @@
-update=Wednesday, February 03, 2016 'PMt' 05:55:48 PM
+update=Sunday, February 07, 2016 'PMt' 03:29:37 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,5 +58,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=texas-op_amps
-LibName31=con
+LibName30=SW-con
+LibName31=SW-texas-op_amps
+LibName32=SW-texas-power
